@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foodlist>
+    <fooditem type="italian">
+            <name> pizza</name>
+        <cost>$15</cost>
+    </fooditem>
+
+    <fooditem type="karachi">
+        <name> biryani</name>
+    <cost>$10</cost>
+    </fooditem>
+    <fooditem type="amercian">
+         <name> pasta</name>
+        <cost>$23</cost>
+    </fooditem>
+    <fooditem type="british">
+        <name> steak</name>
+       <cost>$30</cost>
+   </fooditem>
+   <fooditem type="afghani">
+    <name>&quot;fries&quot;</name>
+   <cost>$6</cost>
+</fooditem>
+    
+</foodlist>
